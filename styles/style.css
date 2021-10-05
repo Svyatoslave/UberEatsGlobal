@@ -128,8 +128,9 @@ select {
 }
 
 @media (max-width: 459px) {
-  .footer-info-wrapper {
+  .footer__wrapper {
     grid-template-columns: 1fr;
+    padding: 20px 10px;
   }
 }
 
